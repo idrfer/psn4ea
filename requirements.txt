@@ -1,0 +1,5 @@
+python==3.8.16
+torch==1.8.1
+torchvision==0.9.1+cu111
+numpy==1.24.2
+scipy==1.5.2
